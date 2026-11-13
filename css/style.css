@@ -1,7 +1,12 @@
 body{
-    background-color: bisque
+    background-color: aliceblue; font-family:"Georgia"
 }
-
-*{
-    border: 1px solid black;
+h1{
+    color: brown;
+}
+p{
+    color: darkgoldenrod; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    color: rgb(5, 84, 84); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
